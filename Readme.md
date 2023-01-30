@@ -1,6 +1,6 @@
 # Go Emoji Calculator
 
-This code implements a calculator able to parse expressions containing  Emoji unicode characters like :100: :keycap_ten: :plus: or :8ball:
+This code implements a calculator able to parse expressions containing  Emoji unicode characters like :100: :keycap_ten: :heavy_plus_sign: or :8ball:
 
 
 the `/parser` package was generated using [ANTLR4](https://github.com/antlr/antlr4). 
@@ -28,7 +28,7 @@ expression
    ;
 ```
 
-the `/calculator` pacakage implements the Listener interface of ANTLR4 parser and the logic to perform the calculations
+the `/calculator` package implements the Listener interface of ANTLR4 parser and the logic to perform the calculations
 
 the `/translator` package implements the function to translate expressions containing emojis into regular ascii expressions and numbers into string containing emojis
 
@@ -38,7 +38,7 @@ the `/challenge` folder contains the challenge which inspired this code and some
 
 * Go 1.19
 
-* Install ANTLR4 runtime go package
+* Install required ANTLR4 runtime go package
 
 ```
 go get github.com/antlr/antlr4/runtime/Go/antlr/v4
