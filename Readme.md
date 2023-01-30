@@ -30,9 +30,9 @@ expression
 
 the `/calculator` package implements the Listener interface of ANTLR4 parser and the logic to perform the calculations
 
-the `/translator` package implements the function to translate expressions containing emojis into regular ascii expressions and numbers into string containing emojis
+the `/translator` package implements the functionality to translate expressions containing emojis into regular ascii expressions and numbers into string containing emojis
 
-the `/challenge` folder contains the challenge which inspired this code and some string examples
+the `/challenge` folder contains the challenge which inspired this code and some expressions examples
 
 # requisites
 
