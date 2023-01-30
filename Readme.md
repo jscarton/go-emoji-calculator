@@ -1,6 +1,14 @@
 # Go Emoji Calculator
 
-This code implements a calculator able to parse expressions containing  Emoji unicode characters like :100: :keycap_ten: :heavy_plus_sign: or :8ball:
+
+
+This code implements a calculator able to parse expressions containing  Emoji unicode characters like :100: :keycap_ten: :heavy_plus_sign: or :8ball: in Go language.
+
+
+
+https://user-images.githubusercontent.com/4459298/215552832-958540ab-134c-413f-9a37-1021ca434ee6.mov
+
+
 
 
 the `/parser` package was generated using [ANTLR4](https://github.com/antlr/antlr4). 
