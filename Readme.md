@@ -38,7 +38,7 @@ the `/challenge` folder contains the challenge which inspired this code and some
 
 * Go 1.19
 
-* Install required ANTLR4 runtime go package
+* Install required ANTLR4 runtime go package. Run this in the root folder of this project.
 
 ```
 go get github.com/antlr/antlr4/runtime/Go/antlr/v4
